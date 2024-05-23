@@ -1,9 +1,10 @@
 
+# Desafio Java - Consulta de CEP
+---
+
 ![JAVA API](https://github.com/cgvargas/desafioApiJsonCep/blob/main/img/java_img.jpg)
 
 ---
-
-# Desafio Java - Consulta de CEP
 
 Este é um projeto desenvolvido como parte de um desafio no Bootcamp de Java Back End da Alura. O desafio consiste em criar um programa em Java que permite ao usuário realizar consultas de CEP usando a API ViaCEP, armazenar os resultados das consultas e salvá-los em um arquivo JSON.
 
