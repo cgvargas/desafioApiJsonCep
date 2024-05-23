@@ -32,6 +32,7 @@ Este projeto é de código aberto e não possui uma licença específica. Foi cr
 
 
 ```markdown
-![Exemplo de Consulta de CEP](link_para_imagem)
+![Exemplo de Consulta de CEP](https://raw.githubusercontent.com/cgvargas/desafioApiJsonCep/java.jpg)
+
 ```
 
