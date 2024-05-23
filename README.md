@@ -14,7 +14,7 @@ Este é um projeto desenvolvido como parte de um desafio no Bootcamp de Java Bac
 - Exibe os resultados da consulta no console.
 - Permite ao usuário encerrar o programa digitando "sair".
 - Armazena os resultados das consultas em uma lista.
-- Salva todos os resultados das consultas em um único arquivo JSON ao sair do programa.
+- Salva todos os resultados das consultas em arquivos de log JSON ao sair do programa.
 
 ## Como utilizar
 
