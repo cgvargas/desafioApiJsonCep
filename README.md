@@ -1,4 +1,6 @@
 
+![JAVA API](https://github.com/cgvargas/desafioApiJsonCep/blob/main/img/java_img.jpg)
+
 ---
 
 # Desafio Java - Consulta de CEP
@@ -29,10 +31,4 @@ Este projeto faz parte do Bootcamp de Java Back End da Alura, uma plataforma de 
 
 Este projeto é de código aberto e não possui uma licença específica. Foi criado para fins acadêmicos e educacionais como parte do Bootcamp da Alura.
 
-
-
-```markdown
-![Exemplo de Consulta de CEP](https://github.com/cgvargas/desafioApiJsonCep/blob/main/Desafio_java_alura.png)
-
-```
 
