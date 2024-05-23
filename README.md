@@ -35,6 +35,3 @@ Este projeto é de código aberto e não possui uma licença específica. Foi cr
 ![Exemplo de Consulta de CEP](link_para_imagem)
 ```
 
-Substitua `link_para_imagem` pelo link direto para a imagem hospedada.
-
-Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
