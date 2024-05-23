@@ -1,6 +1,5 @@
 
 # Desafio Java - Consulta de CEP
----
 
 ![JAVA API](https://github.com/cgvargas/desafioApiJsonCep/blob/main/img/java_img.jpg)
 
